@@ -25,6 +25,15 @@ The app uses **Python** and **Tkinter** for the GUI.
 - Python 3.x
 - Tkinter (for GUI)
 
+- 📚 What I Learned
+Implementing Caesar Cipher logic for both encryption and decryption
+
+Designing a functional GUI using Tkinter
+
+Handling user inputs and exceptions gracefully
+
+Using modular code for better readability
+
 ---
 
 ## 🚀 How to Run
